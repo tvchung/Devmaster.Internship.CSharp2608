@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Devmaster.Internship.CSharp2608/1.0.0": {
+        "runtime": {
+          "Devmaster.Internship.CSharp2608.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Devmaster.Internship.CSharp2608/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Devmaster.Internship.CSharp2608\bin\Debug\net8.0\Devmaster.Internship.CSharp2608.exe
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Devmaster.Internship.CSharp2608\bin\Debug\net8.0\Devmaster.Internship.CSharp2608.deps.json
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Devmaster.Internship.CSharp2608\bin\Debug\net8.0\Devmaster.Internship.CSharp2608.runtimeconfig.json
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Devmaster.Internship.CSharp2608\bin\Debug\net8.0\Devmaster.Internship.CSharp2608.dll
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Devmaster.Internship.CSharp2608\bin\Debug\net8.0\Devmaster.Internship.CSharp2608.pdb
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Devmaster.Internship.CSharp2608\obj\Debug\net8.0\Devmaster.Internship.CSharp2608.GeneratedMSBuildEditorConfig.editorconfig
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Devmaster.Internship.CSharp2608\obj\Debug\net8.0\Devmaster.Internship.CSharp2608.AssemblyInfoInputs.cache
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Devmaster.Internship.CSharp2608\obj\Debug\net8.0\Devmaster.Internship.CSharp2608.AssemblyInfo.cs
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Devmaster.Internship.CSharp2608\obj\Debug\net8.0\Devmaster.Internship.CSharp2608.csproj.CoreCompileInputs.cache
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Devmaster.Internship.CSharp2608\obj\Debug\net8.0\Devmaster.Internship.CSharp2608.dll
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Devmaster.Internship.CSharp2608\obj\Debug\net8.0\refint\Devmaster.Internship.CSharp2608.dll
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Devmaster.Internship.CSharp2608\obj\Debug\net8.0\Devmaster.Internship.CSharp2608.pdb
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Devmaster.Internship.CSharp2608\obj\Debug\net8.0\Devmaster.Internship.CSharp2608.genruntimeconfig.cache
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Devmaster.Internship.CSharp2608\obj\Debug\net8.0\ref\Devmaster.Internship.CSharp2608.dll

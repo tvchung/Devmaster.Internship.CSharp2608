@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\devmaster.edu.vn\\DEV2601BE-NETCORE\\Devmaster.Internship.CSharp2608\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDBFE39-AE86-4949-8BED-CAFC4272E0CF}|Ex01.OrderCalculator\\Ex01.OrderCalculator.csproj|e:\\devmaster.edu.vn\\dev2601be-netcore\\devmaster.internship.csharp2608\\ex01.ordercalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDBFE39-AE86-4949-8BED-CAFC4272E0CF}|Ex01.OrderCalculator\\Ex01.OrderCalculator.csproj|solutionrelative:ex01.ordercalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDBFE39-AE86-4949-8BED-CAFC4272E0CF}|Ex01.OrderCalculator\\Ex01.OrderCalculator.csproj|e:\\devmaster.edu.vn\\dev2601be-netcore\\devmaster.internship.csharp2608\\ex01.ordercalculator\\helpers\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDBFE39-AE86-4949-8BED-CAFC4272E0CF}|Ex01.OrderCalculator\\Ex01.OrderCalculator.csproj|solutionrelative:ex01.ordercalculator\\helpers\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDBFE39-AE86-4949-8BED-CAFC4272E0CF}|Ex01.OrderCalculator\\Ex01.OrderCalculator.csproj|e:\\devmaster.edu.vn\\dev2601be-netcore\\devmaster.internship.csharp2608\\ex01.ordercalculator\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDBFE39-AE86-4949-8BED-CAFC4272E0CF}|Ex01.OrderCalculator\\Ex01.OrderCalculator.csproj|solutionrelative:ex01.ordercalculator\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDBFE39-AE86-4949-8BED-CAFC4272E0CF}|Ex01.OrderCalculator\\Ex01.OrderCalculator.csproj|e:\\devmaster.edu.vn\\dev2601be-netcore\\devmaster.internship.csharp2608\\ex01.ordercalculator\\enums\\shippingmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDBFE39-AE86-4949-8BED-CAFC4272E0CF}|Ex01.OrderCalculator\\Ex01.OrderCalculator.csproj|solutionrelative:ex01.ordercalculator\\enums\\shippingmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InputHelper.cs",
+              "DocumentMoniker": "E:\\devmaster.edu.vn\\DEV2601BE-NETCORE\\Devmaster.Internship.CSharp2608\\Ex01.OrderCalculator\\Helpers\\InputHelper.cs",
+              "RelativeDocumentMoniker": "Ex01.OrderCalculator\\Helpers\\InputHelper.cs",
+              "ToolTip": "E:\\devmaster.edu.vn\\DEV2601BE-NETCORE\\Devmaster.Internship.CSharp2608\\Ex01.OrderCalculator\\Helpers\\InputHelper.cs",
+              "RelativeToolTip": "Ex01.OrderCalculator\\Helpers\\InputHelper.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T08:23:18.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\devmaster.edu.vn\\DEV2601BE-NETCORE\\Devmaster.Internship.CSharp2608\\Ex01.OrderCalculator\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Ex01.OrderCalculator\\Models\\Order.cs",
+              "ToolTip": "E:\\devmaster.edu.vn\\DEV2601BE-NETCORE\\Devmaster.Internship.CSharp2608\\Ex01.OrderCalculator\\Models\\Order.cs",
+              "RelativeToolTip": "Ex01.OrderCalculator\\Models\\Order.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T08:20:26.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShippingMethod.cs",
+              "DocumentMoniker": "E:\\devmaster.edu.vn\\DEV2601BE-NETCORE\\Devmaster.Internship.CSharp2608\\Ex01.OrderCalculator\\Enums\\ShippingMethod.cs",
+              "RelativeDocumentMoniker": "Ex01.OrderCalculator\\Enums\\ShippingMethod.cs",
+              "ToolTip": "E:\\devmaster.edu.vn\\DEV2601BE-NETCORE\\Devmaster.Internship.CSharp2608\\Ex01.OrderCalculator\\Enums\\ShippingMethod.cs",
+              "RelativeToolTip": "Ex01.OrderCalculator\\Enums\\ShippingMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T08:19:42.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\devmaster.edu.vn\\DEV2601BE-NETCORE\\Devmaster.Internship.CSharp2608\\Ex01.OrderCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "Ex01.OrderCalculator\\Program.cs",
+              "ToolTip": "E:\\devmaster.edu.vn\\DEV2601BE-NETCORE\\Devmaster.Internship.CSharp2608\\Ex01.OrderCalculator\\Program.cs",
+              "RelativeToolTip": "Ex01.OrderCalculator\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAawCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T08:18:55.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Ex01.OrderCalculator\obj\Debug\net8.0\Ex01.OrderCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Ex01.OrderCalculator\obj\Debug\net8.0\Ex01.OrderCalculator.AssemblyInfoInputs.cache
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Ex01.OrderCalculator\obj\Debug\net8.0\Ex01.OrderCalculator.AssemblyInfo.cs
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Ex01.OrderCalculator\obj\Debug\net8.0\Ex01.OrderCalculator.csproj.CoreCompileInputs.cache
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Ex01.OrderCalculator\bin\Debug\net8.0\Ex01.OrderCalculator.exe
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Ex01.OrderCalculator\bin\Debug\net8.0\Ex01.OrderCalculator.deps.json
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Ex01.OrderCalculator\bin\Debug\net8.0\Ex01.OrderCalculator.runtimeconfig.json
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Ex01.OrderCalculator\bin\Debug\net8.0\Ex01.OrderCalculator.dll
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Ex01.OrderCalculator\bin\Debug\net8.0\Ex01.OrderCalculator.pdb
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Ex01.OrderCalculator\obj\Debug\net8.0\Ex01.OrderCalculator.dll
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Ex01.OrderCalculator\obj\Debug\net8.0\refint\Ex01.OrderCalculator.dll
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Ex01.OrderCalculator\obj\Debug\net8.0\Ex01.OrderCalculator.pdb
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Ex01.OrderCalculator\obj\Debug\net8.0\Ex01.OrderCalculator.genruntimeconfig.cache
+E:\devmaster.edu.vn\DEV2601BE-NETCORE\Devmaster.Internship.CSharp2608\Ex01.OrderCalculator\obj\Debug\net8.0\ref\Ex01.OrderCalculator.dll
